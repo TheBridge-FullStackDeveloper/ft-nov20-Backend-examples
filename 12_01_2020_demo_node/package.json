@@ -6,12 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "tareilla":"echo \"Mi otra tareilla\" "
+    "tareilla": "echo \"Mi otra tareilla\" "
   },
   "author": "Alex",
   "license": "ISC",
   "dependencies": {
     "cowsay": "^1.4.0",
     "starwars": "^1.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
